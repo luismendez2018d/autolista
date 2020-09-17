@@ -1,0 +1,24 @@
+[
+       {
+            "nombre": "ABARTH 500C",
+            "img": "https://s03.s3c.es/imag/ecomotor/E/ABARTH/500/2017/2CA.JPG",
+            "description":"Todas las versiones de este modelo tienen 2 puertas. Todas las versiones de este modelo tienen la carrocería de tipo: Cabrio. Todas las versiones de este modelo utilizan combustible:Motor gasolina. Todas las versiones de este modelo utilizan transmisión de tipo:Cambio manual.",
+            "enlaces":{
+      "enlace1":"https://www.eleconomista.es/ecomotor/coche/ABARTH/500/14-16v-T-Jet-135cv-Secuencial-",
+      "enlace2":"https://www.eleconomista.es/ecomotor/coche/ABARTH/500/595C-Competizione-14-T-Jet-180-E6-Sec",
+      "enlace3":"https://www.eleconomista.es/ecomotor/coche/ABARTH/500/14-16v-T-Jet-595-107kW-145CV-E6"
+   }
+           
+        },
+		 {
+        "nombre": "ALFA ROMEO Giulietta",
+        "img": "https://s03.s3c.es/imag/ecomotor/E/ALFA-ROMEO/GIULIETTA/2014/5HA.JPG",
+        "description":"Todas las versiones de este modelo tienen 5 puertas. Todas las versiones de este modelo tienen la carrocería de tipo: Berlina. Todas las versiones de este modelo utilizan transmisión de tipo:Cambio manual.",
+        "enlaces":{
+      "enlace1":"https://www.eleconomista.es/ecomotor/coche/ALFA-ROMEO/Giulietta/14-TB-105cv-Progression-",
+      "enlace2":"https://www.eleconomista.es/ecomotor/coche/ALFA-ROMEO/Giulietta/14-TB-M-Air-170cv-TCT-Sprint-"
+    }
+        
+  }   
+
+]
